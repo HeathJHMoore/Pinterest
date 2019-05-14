@@ -1,8 +1,8 @@
 {
-  "name": "environment_files",
+  "name": "pinterest",
   "version": "1.0.0",
   "description": "",
-  "main": "src/javascripts/index.js",
+  "main": "src/javascripts/main.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production --module-bind js=babel-loader"
